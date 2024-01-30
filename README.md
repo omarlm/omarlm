@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
 <h3 align="center">A passionate frontend developer from Canary Islands</h3>
 
-- 🔭 I’m currently working on [Democratest](democratest.com)
+- 🔭 I’m currently working on [Raona](https://www.raona.com/)
 
-- 🌱 I’m currently learning **Vue, Azure and C#**
+- 🌱 I’m currently learning **Sharepoint, ReactJS, Astro, TailwindCSS**
 
 - 📫 How to reach me **omarlm1992@gmail.com**
 
